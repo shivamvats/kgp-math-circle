@@ -1,5 +1,5 @@
-Minutes of Discussion
-=====================
+Minutes
+=======
 
 13th March, 2018 - Analysis
 ---------------------------
