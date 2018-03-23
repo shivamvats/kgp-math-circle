@@ -41,13 +41,19 @@ We wanted to construct negative numbers. But first the idea of negative numbers 
 
 That was the complete idea. What was then left, was to argue the technicalities of constructing such a world of "negative name holders". And as the rule goes, our construction had to present itself as a set of disjoint sets ("classes") which we can then name as we pleased. Below is the diagram which we developed from our intution and which finally gave us the correct construction.
 
-..image:: https://github.com/mayank42/kgp-math-circle/blob/master/images/integer_construction.jpeg
+.. raw:: html
+
+    <img src="https://github.com/mayank42/kgp-math-circle/blob/master/images/integer_construction.jpeg" height="400px">
 
 I would leave it to the interested readers to actually come up with an equivalence relation that creates such a structure on the domain of NxN. If you are interested further in knowing how to develop an arithmetic system (+,-,*,/) on "classes" like these, go through the reference book mentionted at the end.
 
 Construction of real numbers
 ----------------------------
 
-TODO
+On real numbers we just discussed the idea behind the construction. Since we had all electrical guys with us, I asked how can we display square root of 2. So the engineers had the intution of approximating the square root by doing a kind of binary search for a number whose square gets close to 2. Basically we were talking converging sequences. Here we had the intution that square root of 2 can be constructed by generating an equivalent ( but never ending ) binary representaion ( hence the binary search ) which kinda approximates it.
+
+Hence the idea. From our experience we know we cannot exactly write down a irrational number but we can approximate it. So why not declare real numbers as classes of "equivalent" approximations.
+
+---------------------------------------------------------------------------------------------------------------------------------
 
 **Useful Reference:** Analysis I by Terence Tao.
