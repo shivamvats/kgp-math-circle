@@ -35,7 +35,15 @@ Consider the real plane (R x R), initially consider every point in the plane as 
 Construction of integers
 ------------------------
 
-TODO
+We discussed how to build a system of integers, given we had a system of natural numbers at our disposal. We limited our tools to natural numbers and the theory of equivalence classes. 
+
+We wanted to construct negative numbers. But first the idea of negative numbers had to be motivated from our experiences. Everybody had this intutive feeling that negative numbers came by removing large number from a small number. So to define a negative numbers without actually having to signify it's physical meaning, the best way was to treat negative numbers as merely a name holder for class representing some kind of removal operation. So that "-1" would be the name given to the removal of "2 from 1".
+
+That was the complete idea. What was then left, was to argue the technicalities of constructing such a world of "negative name holders". And as the rule goes, our construction had to present itself as a set of disjoint sets ("classes") which we can then name as we pleased. Below is the diagram which we developed from our intution and which finally gave us the correct construction.
+
+..image:: https://github.com/mayank42/kgp-math-circle/blob/master/images/integer_construction.jpeg
+
+I would leave it to the interested readers to actually come up with an equivalence relation that creates such a structure on the domain of NxN. If you are interested further in knowing how to develop an arithmetic system (+,-,*,/) on "classes" like these, go through the reference book mentionted at the end.
 
 Construction of real numbers
 ----------------------------
