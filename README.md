@@ -17,3 +17,6 @@ Mantra: Keep it simple.
 * [Analysis-I](https://www.springer.com/fr/book/9789811017896) - Terence Tao
 * [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2011/01/measure-book1.pdf) - Terence Tao
 * [Introductory Functional Analysis With Applications](http://www-personal.acfr.usyd.edu.au/spns/cdm/resources/Kreyszig%20-%20Introductory%20Functional%20Analysis%20with%20Applications.pdf) - Erwin Kreyszig
+
+## General Reference
+* [The Princeton Companion to Mathematics](https://isidore.co/calibre/get/pdf/4662)
